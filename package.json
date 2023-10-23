@@ -1,0 +1,16 @@
+{
+  "name": "env-schema-expand-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "serdnam",
+  "license": "MIT",
+  "dependencies": {
+    "@sinclair/typebox": "^0.31.18",
+    "env-schema": "5.2.0"
+  }
+}
